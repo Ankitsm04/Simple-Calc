@@ -1,0 +1,39 @@
+body {
+    background-image: url("image.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
+
+.calculator {
+    background-color: #C19A6B;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a slight depth effect */
+    max-width: 400px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.result {
+    text-align: center;
+}
