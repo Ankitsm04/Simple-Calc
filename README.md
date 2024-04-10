@@ -1,1 +1,1 @@
-# Simple-Calc
+# Django-Simple-Calculator
